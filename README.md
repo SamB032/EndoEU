@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sam
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning data science and object orientated programming
