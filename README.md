@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
+<h1 align="center">Hello, I'm Sam</h1>
 <h3 align="center">I’m interested in programming</h3>
 
 - 🔭 I’m currently working on [PyQt5](https://github.com/EndoEU/PyQt5-application)
