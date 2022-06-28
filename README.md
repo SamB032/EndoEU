@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Sam</h1>
-<h3 align="center">I’m interested in programming</h3>
+<h3 align="center">I’m interested in Coding and Computers</h3>
 
 - 🔭 I’m currently working on [Django](https://github.com/EndoEU/django-online-course)
 
