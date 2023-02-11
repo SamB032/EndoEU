@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Sam</h2>
-<p>I'm currently a computer science undergraduate student. Currently based in the UK 🇬🇧.</p>
+<p>I'm currently a computer science undergraduate student. From Wales, UK 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇬🇧.</p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
