@@ -22,4 +22,4 @@
 
 <h2>📊 Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samb032&show_icons=true&count_private=true&theme=city_lights"/></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamB032&layout=compact&theme=city_lights)](https://github.com/SamB032)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamB032&layout=compact&theme=city_lights"/></p>
