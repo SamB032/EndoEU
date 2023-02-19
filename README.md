@@ -9,6 +9,7 @@
 <li>🧐 Learning about <strong>Mathematics for Computation</strong>, <strong>Networking</strong>, and a bit of <strong>Machine Learning</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/SamB032">Github</a>.</li>
 <li>💬 Ping me about <strong>Cryptography, Python and Cloud Stuff</strong>.</li>
+<li>👨‍💻 I also go through coding problems on <a href="https://www.codewars.com/users/EndoEU">Codewars</a>
 </ul>
 
 <h2>🚀 languages and tools</h2>
