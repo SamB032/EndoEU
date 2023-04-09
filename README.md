@@ -10,7 +10,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/SamB032">Github</a>.</li>
 <li>💬 Ping me about <strong>Cryptography, Python and Cloud Stuff</strong>.</li>
 <li>👨‍💻 I also go through coding problems on <a href="https://www.codewars.com/users/EndoEU">Codewars</a>.</li>
-<li>🌐 My website can be found using this link <a href="https://samb032.github.io/portfolio-website/">Portfolio website</a>.
+<li>🌐 My website can be found using this link <a href="https://s.boffey.wales/">Portfolio website</a>.
 </ul>
 
 <h2>🚀 languages and tools</h2>
