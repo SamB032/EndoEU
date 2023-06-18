@@ -27,10 +27,13 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SamB032)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/SamB032)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/SamB032)
+[![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino)](https://github.com/SamB032)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)](https://github.com/SamB032)
+[![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt)](https://github.com/SamB032)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/SamB032)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/SamB032)
 
 ## Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamB032&theme=transparent&count_private=true" alt="Profile Summary"/>
