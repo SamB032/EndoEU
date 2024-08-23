@@ -18,18 +18,16 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SamB032)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/SamB032)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/SamB032)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/SamB032)
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/SamB032)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/SamB032)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SamB032)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/SamB032)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SamB032)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/SamB032)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/SamB032)
-[![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino)](https://github.com/SamB032)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)](https://github.com/SamB032)
-[![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt)](https://github.com/SamB032)
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/SamB032)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/SamB032)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes)](https://github.com/SamB032)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/SamB032)
