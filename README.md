@@ -1,8 +1,6 @@
 <div align="center">
   <i>
     Hey 👋, I'm Sam.<br>
-    I'm currently a Computer Science Undergraduate student.<br>
-    Interested in Learning new Stuff.<br>
   </i>
   <br>
 </div>
